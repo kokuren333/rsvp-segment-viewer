@@ -1,0 +1,5 @@
+﻿{
+  "name": "RSVP Segment Viewer",
+  "description": "An application that uses Rapid Serial Visual Presentation (RSVP) to display Japanese text segments generated locally with MeCab (WASM).",
+  "requestFramePermissions": []
+}
